@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 124,
+    "height" : 83
+  }, {
+    "width" : 248,
+    "height" : 165
+  }, {
+    "width" : 495,
+    "height" : 330
+  }, {
+    "width" : 989,
+    "height" : 659
+  }, {
+    "width" : 1977,
+    "height" : 1318
+  }, {
+    "width" : 3953,
+    "height" : 2635
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3953,
+  "@id" : "https://giorgiasilluzio.github.io/TMDRA Silluzio-Tonini/images/anger",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2635
+}
